@@ -71,7 +71,7 @@
 <!-- ===== github stats ===== -->
 <div align="center">
 
-![Richard's GitHub stats](https://github-readme-stats.vercel.app/api?username=grandrx10&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=grandrx10&layout=compact&hide_border=true)
+![Richard's GitHub stats](https://github-readme-stats-eta-gilt-38.vercel.app/api?username=grandrx10&show_icons=true&hide_border=true&count_private=true)
+![Top languages](https://github-readme-stats-eta-gilt-38.vercel.app/api/top-langs/?username=grandrx10&layout=compact&hide_border=true)
 
 </div>
